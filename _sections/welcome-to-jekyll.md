@@ -1,7 +1,7 @@
 ---
-title: BLANK[3]
+title: DONATION
 icon: fa-check
 order: 5
 ---
 
-BLANK[4]
+신한은행 110-495-898256 예금주: 김진우
